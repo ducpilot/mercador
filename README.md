@@ -1,0 +1,2 @@
+# mercador
+Django learning project
